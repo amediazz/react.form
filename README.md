@@ -1,3 +1,16 @@
+# This project is a react app to handle data from a form
+
+In this project we can collect data : 
+
+### Name
+### email
+### message
+
+And handle it with methodes and alert the UI with message
+
+
+#
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
