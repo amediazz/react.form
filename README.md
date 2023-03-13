@@ -1,12 +1,12 @@
-# This project is a react app to handle data from a form
+## This project is a react app to handle data 
 
 In this project we can collect data : 
 
-### Name
-### email
-### message
+### `Name`
+### `email`
+### `message`
 
-And handle it with methodes and alert the UI with message
+And handle it with `methodes` and alert the UI with `message`
 
 
 #
